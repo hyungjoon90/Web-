@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <style>
+            table{
+                border-collapse: collapse;
+                width: 500px;
+            }
+            th,td{
+                border-bottom: 1px dashed black;
+            }
+            th,tr:last-child{
+                border-bottom-style: solid;
+            }
+            table,th,td{
+                /*border: 1px solid black;*/
+                /*border-spacing: 0px;*/
+            }
+            td:first-child{
+                width: 100px;
+            }
+            td:first-child+td{
+                width: 200px;
+            }
+            td:first-child+td+td{
+                width: 50px;
+            }
+            td:first-child+td+td+td{
+                width: 150px;
+            }
+            tr:nth-child(odd){
+                background-color: #cccccc;
+            }
+            tr:first-child{
+                background-color: gray;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>테이블</h1>
+        <table>
+            <tr>
+                <th>컬럼1</th>
+                <th>컬럼2</th>
+                <th>컬럼3</th>
+                <th>컬럼4</th>
+            </tr>
+            <tr>
+                <td>1-1</td>
+                <td>1-2</td>
+                <td>1-3</td>
+                <td>1-4</td>
+            </tr>
+            <tr>
+                <td>2-1</td>
+                <td>2-2</td>
+                <td>2-3</td>
+                <td>2-4</td>
+            </tr>
+            <tr>
+                <td>3-1</td>
+                <td>3-2</td>
+                <td>3-3</td>
+                <td>3-4</td>
+            </tr>
+        </table>
+    </body>
+</html>

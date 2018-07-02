@@ -1,0 +1,39 @@
+<!Doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <style>
+            div{
+                width: 50px;
+                height: 50px;
+                float: left;
+                line-height: 10px;
+            }
+            div:nth-child(1){
+                background-color: #ff0000;
+            }
+            div:nth-child(2){
+                background-color: #00ff00;
+            }
+            div:nth-child(3){
+                background-color: #0000ff;
+            }
+            div:nth-child(4){
+                background-color: #ff00ff;
+            }
+             div:hover{
+                height: 200px;
+                background-color: #cccccc;
+                transition-duration: 0.5s;
+                transition-delay: 300ms;
+                transition-timing-function: ease-in;
+            }
+        </style>
+    </head>
+    <body>
+        <div>item1</div>
+        <div>item2</div>
+        <div>item3</div>
+        <div>item4</div>
+    </body>
+</html>

@@ -1,0 +1,392 @@
+[
+  {
+    "symbolicName": "ojdbc14",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a31515b1c6e67df53eddd358386ccf344657189b",
+    "jarFileModificationDate": "2006-02-02T00:49:38+09:00",
+    "location": "C:\\oraclexe\\app\\oracle\\product\\10.2.0\\server\\jdbc\\lib\\ojdbc14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "de7f0b49f78e845f410346505f42887d141fde7f",
+    "jarFileModificationDate": "2018-02-06T14:48:44.449+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "ojdbc14",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a31515b1c6e67df53eddd358386ccf344657189b",
+    "jarFileModificationDate": "2018-04-04T15:09:05.358+09:00",
+    "location": "C:\\webcast\\web10\\WebContent\\WEB-INF\\lib\\ojdbc14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ojdbc14",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a31515b1c6e67df53eddd358386ccf344657189b",
+    "jarFileModificationDate": "2018-04-04T15:09:05.358+09:00",
+    "location": "C:\\webcast\\web12\\WebContent\\WEB-INF\\lib\\ojdbc14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "47bae241981f7e4dfacae6e852d8b2c8d9b31955",
+    "jarFileModificationDate": "2018-02-06T14:48:44.425+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\ext\\cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6df573464e92f393618a6d02bf0331ea1c6bdd73",
+    "jarFileModificationDate": "2018-02-06T14:48:49.502+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "22cdd87a8ca22f740b4a028a924c906f09149ec0",
+    "jarFileModificationDate": "2018-02-06T14:48:44.467+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "ojdbc14",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a31515b1c6e67df53eddd358386ccf344657189b",
+    "jarFileModificationDate": "2018-04-04T15:09:05.358+09:00",
+    "location": "C:\\webcast\\web06\\WebContent\\WEB-INF\\lib\\ojdbc14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fb9fb9b22f190b735306ace66ad7c18138a42381",
+    "jarFileModificationDate": "2018-02-06T14:48:44.426+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a7c6d4082726732778ac38a72840acc7bd53648b",
+    "jarFileModificationDate": "2018-02-06T14:48:44.445+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\ext\\jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "ojdbc14",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a31515b1c6e67df53eddd358386ccf344657189b",
+    "jarFileModificationDate": "2018-04-04T15:09:05.358+09:00",
+    "location": "C:\\webcast\\web04\\WebContent\\WEB-INF\\lib\\ojdbc14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a868eb2ed7776882e1458ac5091824b442345f78",
+    "jarFileModificationDate": "2018-02-06T14:48:44.426+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6452df62bdd2aa95350f178b87d663e247d53676",
+    "jarFileModificationDate": "2018-02-06T14:48:44.448+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "ojdbc14",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a31515b1c6e67df53eddd358386ccf344657189b",
+    "jarFileModificationDate": "2018-04-04T15:09:05.358+09:00",
+    "location": "C:\\webcast\\web08\\WebContent\\WEB-INF\\lib\\ojdbc14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1339225468ddce1b309ece30bdfa1d3a2048f9d3",
+    "jarFileModificationDate": "2018-02-06T14:48:44.458+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1ceaa27cb823594e63f90891fd0b52303a627e70",
+    "jarFileModificationDate": "2018-02-06T14:48:44.422+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\ext\\access-bridge-64.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ab130fc411004a034a902a9f51e114dd23f05bc0",
+    "jarFileModificationDate": "2018-02-06T14:48:49.598+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b52476ea728d06506b2193364bb723fe0582dff3",
+    "jarFileModificationDate": "2018-02-06T14:48:49.553+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "ojdbc14",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a31515b1c6e67df53eddd358386ccf344657189b",
+    "jarFileModificationDate": "2018-04-04T15:09:05.358+09:00",
+    "location": "C:\\webcast\\web11\\WebContent\\WEB-INF\\lib\\ojdbc14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ojdbc14",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a31515b1c6e67df53eddd358386ccf344657189b",
+    "jarFileModificationDate": "2018-04-04T15:09:05.358+09:00",
+    "location": "C:\\webcast\\web13\\WebContent\\WEB-INF\\lib\\ojdbc14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e20e34d5cbb0b7eae7a8951fe9e6dd5311c002d6",
+    "jarFileModificationDate": "2018-02-06T14:48:49.523+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bf1c817820341a246f7130fe046e8310b03d04f6",
+    "jarFileModificationDate": "2018-02-06T14:48:44.448+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2a52a3d3443151f495d4ba0e05efffa36fc9de1c",
+    "jarFileModificationDate": "2018-02-06T14:48:44.449+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "ojdbc14",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a31515b1c6e67df53eddd358386ccf344657189b",
+    "jarFileModificationDate": "2018-04-04T15:09:05.358+09:00",
+    "location": "C:\\webcast\\caffe\\WebContent\\WEB-INF\\lib\\ojdbc14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9f24cdb466c38cbfaa824fbe2527bf8688d9ee5a",
+    "jarFileModificationDate": "2018-02-06T14:48:44.448+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "ojdbc14",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a31515b1c6e67df53eddd358386ccf344657189b",
+    "jarFileModificationDate": "2018-04-04T15:09:05.358+09:00",
+    "location": "C:\\webcast\\web05\\WebContent\\WEB-INF\\lib\\ojdbc14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b9530863a741099c8bf4cd4a6fb04208db3c2426",
+    "jarFileModificationDate": "2018-02-06T14:48:44.459+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "ojdbc14",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a31515b1c6e67df53eddd358386ccf344657189b",
+    "jarFileModificationDate": "2018-04-04T15:09:05.358+09:00",
+    "location": "C:\\webcast\\web03\\WebContent\\WEB-INF\\lib\\ojdbc14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ojdbc14",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a31515b1c6e67df53eddd358386ccf344657189b",
+    "jarFileModificationDate": "2018-04-04T15:09:05.358+09:00",
+    "location": "C:\\webcast\\web09\\WebContent\\WEB-INF\\lib\\ojdbc14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "99b96ebf39ca67cac33c98a8cec4efc3101be777",
+    "jarFileModificationDate": "2018-02-06T14:48:44.447+09:00",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\ext\\nashorn.jar",
+    "javaRuntime": true
+  }
+]

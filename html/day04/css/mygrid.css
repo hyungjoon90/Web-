@@ -1,0 +1,51 @@
+.container{
+    width: 1020px;
+    margin: 0px auto;
+}
+/*grid1~12*/
+.grid1,.grid2,.grid3,.grid4,.grid5,.grid6,
+.grid7,.grid8,.grid9,.grid10,.grid11,.grid12{
+    float: left;
+    margin: 0px;
+    padding: 0px;
+}
+.grid1{
+    width: 85px;
+}
+.grid2{
+    width: 170px;
+}
+.grid3{
+    width: 255px;
+}
+.grid4{
+    width: 340px;
+}
+.grid5{
+    width: 425px;
+}
+.grid6{
+    width: 510px;
+}
+.grid7{
+    width: 595px;
+}
+.grid8{
+    width: 680px;
+}
+.grid9{
+    width: 765px;
+}
+.grid10{
+    width: 870px;
+}
+.grid11{
+    width: 935px;
+}
+.grid12{
+    width: 1020px;
+}
+.row{
+    overflow: hidden;
+    clear: both;
+}

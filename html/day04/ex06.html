@@ -1,0 +1,147 @@
+<!dovtype html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="css/mygrid2.css"/>
+    <style>
+        @media screen and (max-width:767px){ /*.col-xs*/
+            /*모바일*/
+            .mcontainer{
+                width: 100%;
+            }
+            .mgrid1,.mgrid2,.mgrid3,.mgrid4,
+            .mgrid5,.mgrid6,.mgrid7,.mgrid8,
+            .mgrid9,.mgrid10,.mgrid11,.mgrid12{
+                float: left;
+            }
+
+            .mgrid1{width:8.3333% ;}
+            .mgrid2{width:16.6666% ;}
+            .mgrid3{width:25% ;}
+            .mgrid4{width:33.3333% ;}
+            .mgrid5{width:41.6666% ;}
+            .mgrid6{width:50% ;}
+            .mgrid7{width:58.3333% ;}
+            .mgrid8{width:66.6666% ;}
+            .mgrid9{width:75% ;}
+            .mgrid10{width:83.3333% ;}
+            .mgrid11{width:91.6666% ;}
+            .mgrid12{width: 100%;}
+
+            .mrow{
+                clear: both;
+                overflow: hidden;
+            }
+            .mclear{
+                display: none;
+            }
+        }
+        @media screen and (min-width:768px){ /*.col-lg*/
+             /*PC*/
+                .container{
+                    width: 1020px;
+                    margin: 0px auto;
+                }
+                /*grid1~12*/
+                .grid1,.grid2,.grid3,.grid4,.grid5,.grid6,
+                .grid7,.grid8,.grid9,.grid10,.grid11,.grid12{
+                    float: left;
+                    margin: 0px;
+                    padding: 0px;
+                }
+                .grid1{
+                    width: 85px;
+                }
+                .grid2{
+                    width: 170px;
+                }
+                .grid3{
+                    width: 255px;
+                }
+                .grid4{
+                    width: 340px;
+                }
+                .grid5{
+                    width: 425px;
+                }
+                .grid6{
+                    width: 510px;
+                }
+                .grid7{
+                    width: 595px;
+                }
+                .grid8{
+                    width: 680px;
+                }
+                .grid9{
+                    width: 765px;
+                }
+                .grid10{
+                    width: 870px;
+                }
+                .grid11{
+                    width: 935px;
+                }
+                .grid12{
+                    width: 1020px;
+                }
+                .row{
+                    overflow: hidden;
+                    clear: both;
+                }
+                .clear{
+                    display: none;
+                }
+        }
+        .content>img{
+            width: 100%;
+        }
+        ul>li{
+            list-style: none;
+            height: 50px;
+        }
+        ul>li>img{
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mcontainer">
+        <div class="row">
+            <div class="grid12 mgrid12">
+                <img alt="logo" src="imgs/logo.png">
+            </div>
+        </div>
+        <div class="row">
+           <div class="grid3 mgrid12">
+                <!--menu-->
+                <ul>
+                    <li><a href="#">menu1</a></li>
+                    <li><a href="#">menu2</a></li>
+                    <li><a href="#">menu3</a></li>
+                    <li><a href="#">menu4</a></li>
+                </ul>
+            </div>
+            <div class="grid7 mgrid12 content">
+                <!--content-->
+                <h1>환영합니다.</h1>
+                <img alt="main" src="imgs/main.png"/>
+            </div>
+            <div class="grid2 mclear">
+                <!--aside-->
+                <ul>
+                    <li><img src="http://imgnews.naver.com/image/119/2018/03/16/0002246373_001_20180316093813578.jpg" alt="naver"/></li>
+                    <li><img src="https://t1.daumcdn.net/daumtop_chanel/op/20170315064553027.png" alt="daum"/></li>
+                    <li><img src="https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="google"/></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="grid12 mgrid12">
+                <!--footer-->
+                copyright hyungjoon
+            </div>
+        </div>
+    </div>
+</body>
+</html>

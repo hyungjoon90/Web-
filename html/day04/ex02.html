@@ -1,0 +1,147 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <style>
+            @media screen and (max-width:1023px){
+                nav>div{
+                    display: inline-block;
+                    width: 80px;
+                    height: 80px;
+                    background-color: gray;
+                    border-radius: 10px;
+                    float: right;
+                }
+                nav>div>span{
+                    display: inline-block;
+                    width: 50px;
+                    height: 2px;
+                    background-color: white;
+                    margin: 0px 15px;
+                }
+                nav>ul{
+                   /* display: none;*/
+                }
+                nav>ul>li{
+                    list-style: none;
+                }
+                section>img{
+                    width: 100%;
+                }
+                aside{
+                    display: none;
+                }
+                footer{
+                    background-color: gray;
+                }
+            }
+            @media screen and (min-width:1024px){
+            header,nav,section,aside,footer{
+                display: block;
+            }
+            header{}
+            header>h1{
+                height: 180px;
+                background-image: url(imgs/logo.png);
+                background-repeat: no-repeat;
+                text-indent: -9999px;
+            }
+            
+            nav{
+                background-color: #cccccc;
+                overflow: hidden;
+            }
+            nav>ul{
+                padding: 0px;
+                width: 520px;
+                margin: 0px auto;
+            }
+            nav>ul>li{
+                float: left;
+                background-color: gray;
+                list-style: none;
+                margin: 0px 5px;
+                width: 120px;
+            }
+            nav>ul>li>a:link,nav>ul>li>a:visited{
+                font-size: 20pt;
+                font-weight: bold;
+                display: block;
+                text-decoration: none;
+                color: white;
+                height: 80px;
+                text-align: center;
+                line-height: 80px;
+            }
+            nav>ul>li>a:hover,nav>ul>li>a:active{
+                background-color: red;
+                line-height: 90px;
+            }
+            section{
+                clear: both;
+                width: 70%;
+                float: left;
+            }
+            section>img{
+                width: 100%;
+            }
+            aside{
+                width: 30%; 
+                float: left;
+            }
+            aside>a{
+                display: block;
+                margin-top: 50px;
+                margin-left: 20px;
+                height: 50px;
+                width: 100px;
+            }
+            aside>a>img{
+                width: 200px;
+                display: block;
+                margin: 50px 10%;
+            }
+            footer{
+                clear: both;
+                background-color: gray;
+                text-align: center;
+            }
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>형준컴퓨터</h1>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="#">menu1</a></li>
+                <li><a href="#">menu2</a></li>
+                <li><a href="#">menu3</a></li>
+                <li><a href="#">menu4</a></li>    
+            </ul>
+            <div>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+        <section>
+            <h1>반응형 웹이란</h1>
+            <img alt="main" src="imgs/main.png"/>
+            <p>HTML5는 HTML의 완전한 5번째 버전으로 월드 와이드 웹 (World Wide Web)의 핵심 마크업 언어이다. 2004년 7월 Web Hypertext Application Technology Working Group(WHATWG)에서 웹 애플리케이션 1.0이라는 이름으로 세부 명세 작업을 시작하였다.</p>
+            <p>HTML5는 HTML 4.01, XHTML 1.0, DOM 레벨 2 HTML에 대한 차기 표준 제안이다. 비디오, 오디오 등 다양한 부가기능과 최신 멀티미디어 콘텐츠를 액티브X 없이 브라우저에서 쉽게 볼 수 있게 하는 것을 목적으로 한다.</p>
+        </section>
+        <aside>
+            <a href="http://naver.com"><img src="http://dbscthumb.phinf.naver.net/2315_000_1/20130809102955884_MWJVA8K0Z.jpg/n2504.jpg?type=m4500_4500_fst"></a>
+            <a href="http://daum.net"><img src="https://t1.daumcdn.net/daumtop_chanel/op/20170315064553027.png"/></a>
+            <a href="http://google.com">google</a>
+        </aside>
+        <footer>
+            <address>고양군 열심시 하고푼</address>
+            Copyright 형준컴퓨터 
+        </footer>
+    </body>
+</html>
+
+

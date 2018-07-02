@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <style>
+            div{
+                width: 100px;
+                height: 100px;
+                position: static;
+            }
+            div:nth-child(1){
+                background-color: #ff0000;
+            }
+            /*
+            position
+            
+            fixer; 화면을 기준으로 절대포지션 스크롤을 내려도 따라옴.
+            absolute; 부모엘리먼트를 기준 절대포지션
+            relative; 본래 자신의 위치를 기준으로 상대포지션
+            
+            x축 left:00px
+            y축 top :00px
+
+            */
+            div:nth-child(2){
+                left:100px;
+                top:-100px;
+                background-color: #00ff00;
+                position: relative;
+                /*z-index: -1;*/
+            }
+            div:nth-child(3){
+                background-color: #0000ff;
+            }
+            div:nth-child(4){
+                background-color: #ff00ff;
+            }
+            div>div{
+                width: 80px;
+                height: 80px;
+                border: 1px solid blue;
+            }
+            div>div:nth-child(1){
+                left: -50px;
+                top: 0px;
+                position: absolute;
+            }
+        </style>
+    </head>
+    <body>
+        <div>box1</div>
+        <div>
+            box2
+            <div>box2-1</div>
+        </div>
+        <div>box3</div>
+        <div>box4</div>
+    </body>
+</html>

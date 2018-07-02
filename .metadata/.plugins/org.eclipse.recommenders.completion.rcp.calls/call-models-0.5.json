@@ -1,0 +1,27 @@
+{
+  "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\rt.jar": {
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_162\\jre\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "Could not transfer artifact jre:jre:zip:call:1.0.0 from/to remote-models (http://download.eclipse.org/recommenders/models/juno/): Error transferring file, server returned status code 307"
+  },
+  "C:\\webcast\\myOra\\src": {
+    "location": "C:\\webcast\\myOra\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\webcast\\myOra\\src\u0027. Skipped."
+  },
+  "C:\\Tomcat7.0\\lib\\servlet-api.jar": {
+    "location": "C:\\Tomcat7.0\\lib\\servlet-api.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Tomcat7.0\\lib\\servlet-api.jar\u0027. Neither fingerprint \u00276e888271aceb684f7e07e33cb8781778f89133c7\u0027 nor symbolic name \u0027servlet-api\u0027 are known."
+  },
+  "C:\\webcast\\web11\\src": {
+    "location": "C:\\webcast\\web11\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\webcast\\web11\\src\u0027. Skipped."
+  },
+  "C:\\webcast\\web12\\src": {
+    "location": "C:\\webcast\\web12\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\webcast\\web12\\src\u0027. Skipped."
+  }
+}
